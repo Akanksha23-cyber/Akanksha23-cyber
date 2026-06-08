@@ -17,23 +17,17 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class AkankshAI:
-    def __init__(self):
-        self.name        = "Akanksha Keshri"
-        self.role        = "AI/ML Engineer (in progress 🚀)"
-        self.university  = "Sarala Birla University, Ranchi"
-        self.degree      = "B.Tech CSE  |  2024–2028  |  CGPA: 8.2"
-        self.focus       = ["Generative AI", "RAG Pipelines", "LLM Systems", "NLP"]
-        self.location    = "Ranchi, Jharkhand, India 🇮🇳"
-        self.email       = "akanksha23keshri@gmail.com"
+Hi, I'm Akanksha, a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Generative AI.
 
-    def mission(self):
-        return "Build AI that's grounded, fast, and actually useful — no hallucinations allowed."
-```
+🔹 Currently learning Python, Data Structures & Algorithms, and AI/ML  
+🔹 Exploring LLMs, RAG systems, NLP, and AI-powered applications  
+🔹 Building projects that combine software development with real-world AI solutions  
+🔹 Interested in creating scalable, production-ready AI products  
+🔹 Open to collaborations, internships, and innovative tech projects
 
+I enjoy turning ideas into practical solutions and continuously improving my problem-solving and development skills.
 ---
 
 ## 🛠️ Tech Stack
