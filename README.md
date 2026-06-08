@@ -15,9 +15,6 @@
 </div>
 ---
  
-## 🧠 About Me
- 
-```python
 class AkankshAI:
     def __init__(self):
         self.name        = "Akanksha Keshri"
@@ -27,12 +24,9 @@ class AkankshAI:
         self.focus       = ["Generative AI", "RAG Pipelines", "LLM Systems", "NLP"]
         self.location    = "Ranchi, Jharkhand, India 🇮🇳"
         self.email       = "akanksha23keshri@gmail.com"
- 
+
     def mission(self):
         return "Build AI that's grounded, fast, and actually useful — no hallucinations allowed."
-```
- 
----
  
 ## 🛠️ Tech Stack
 
