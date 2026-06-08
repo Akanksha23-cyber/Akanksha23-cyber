@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
 ```
 ░█████╗░██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗░██████╗██╗░░██╗░█████╗░
@@ -38,17 +35,13 @@ class AkankshAI:
 ---
  
 ## 🛠️ Tech Stack
- 
-<div align="center">
-| Domain | Tools & Tech |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **Vector & Data** | ![FAISS](https://img.shields.io/badge/FAISS-0064B0?style=flat-square&logo=meta&logoColor=white) ![Chroma](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **CV / Vision** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
- 
-</div>
+
+| Domain | Tools & Tech | Languages |
+|--------|-------------|-----------|
+| **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Vector & Data** | ![FAISS](https://img.shields.io/badge/FAISS-0064B0?style=flat-square&logo=meta&logoColor=white) ![Chroma](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | |
+| **CV / Vision** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | |
 ---
  
 ## 🚀 Featured Projects
@@ -96,22 +89,24 @@ class AkankshAI:
  
 ## 📊 GitHub Stats
  
-<div align="center">
-![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akanksha23-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha23-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akanksha23-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF)
- 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akanksha23-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha23-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akanksha23-cyber&theme=tokyonight&hide_border=true" />
+</p>
 ---
  
 ## 🤝 Let's Connect
- 
-<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akankshakeshri-0347a1321)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akanksha23-cyber)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha23keshri@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha23keshri@gmail.com)
  
 ---
  
