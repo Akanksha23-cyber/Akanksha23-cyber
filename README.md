@@ -14,7 +14,7 @@
  
 </div>
 ---
- 
+```python
 class AkankshAI:
     def __init__(self):
         self.name        = "Akanksha Keshri"
@@ -27,6 +27,7 @@ class AkankshAI:
 
     def mission(self):
         return "Build AI that's grounded, fast, and actually useful — no hallucinations allowed."
+```
  
 ## 🛠️ Tech Stack
 
